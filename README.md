@@ -117,7 +117,3 @@ DELETE http://localhost:4000/deletartarefa/{id}
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **Express**: Framework web para Node.js.
 - **Mongoose**: ODM (Object Data Modeling) para MongoDB e Node.js.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
